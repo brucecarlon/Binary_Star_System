@@ -7,7 +7,7 @@ The binary star system will consist of a G and K class stars. It can be
 shown, without loss of generality, that a two-body problem is always evolving in a two-
 dimensional orbital plane. The force that drives the motion of the two stars in this model
 is the gravitational force.
-Therefore, the force of an object of mass M at location (xM , yM ) acting on another
+Therefore, the force of an object of mass M at location (x_M , y_M ) acting on another
 object of mass m at location (xm , ym ) is given by the following two formulae (one for each2
 coordinate, x and y):
 
